@@ -5,7 +5,15 @@
 [![TestNG](https://img.shields.io/badge/TestNG-7.12.0-red)](https://testng.org/)
 [![Maven](https://img.shields.io/badge/Maven-Build-blue)](https://maven.apache.org/)
 [![Allure](https://img.shields.io/badge/Reporting-Allure-purple)](https://allurereport.org/)
+## 👨‍💻 Author
 
+**Sahil Shaikh**
+
+🎓 **YouTube Channel:** Test Automation Academy 2.0
+
+GitHub: [@shaikhsahilss2024-cmd](https://github.com/shaikhsahilss2024-cmd)
+
+**Content & Learning:** Selenium Automation, Java, TestNG, Framework Development, and End-to-End Testing.
 ## 📌 Project Overview
 
 This project is an End-to-End (E2E) test automation framework developed using **Java, Selenium WebDriver, TestNG, and Maven** to automate functional testing of the [SauceDemo web application](https://www.saucedemo.com/).
@@ -387,5 +395,13 @@ GitHub: [@shaikhsahilss2024-cmd](https://github.com/shaikhsahilss2024-cmd)
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 ---
+## 👨‍💻 Author
 
+**Sahil Shaikh**
+
+🎓 **YouTube Channel:** Test Automation Academy 2.0
+
+GitHub: [@shaikhsahilss2024-cmd](https://github.com/shaikhsahilss2024-cmd)
+
+**Content & Learning:** Selenium Automation, Java, TestNG, Framework Development, and End-to-End Testing.
 **Developed with Java, Selenium WebDriver, TestNG, Maven, and Allure Reporting.**
